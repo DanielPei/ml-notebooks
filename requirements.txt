@@ -1,0 +1,9 @@
+jupyter
+numpy
+matplotlib
+pandas
+feedparser
+sphinx
+autodoc
+sphinx-rtd-theme
+click
